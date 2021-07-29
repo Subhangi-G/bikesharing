@@ -15,15 +15,14 @@ The vizzes are then presented in dashboards, which are used to create a story.
 
 ## Results
 
-Tableau Public link :
-Links to worksheets for Deliverable 2:
-[link to Checkout Times for Users] 
-[link to Checkout Times by Gender]
-[link to Trips by Weekday for Each Hour]
-[link to Trips by Gender (Weekday per Hour]
-[link to User Trips by Gender by Weekday]
+Links to worksheets for Deliverable 2:\
+[Link to Checkout Times for Users](https://public.tableau.com/views/CheckoutTimesforUsers-Deliverable2Challenge/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)\
+[Link to Checkout Times by Gender](https://public.tableau.com/views/CheckoutTimesbyGender-Deliverable2Challenge/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)\
+[Link to Trips by Weekday for Each Hour](https://public.tableau.com/views/TripsbyWeekdayforEachHour-Deliverable2Challenge/TripsbyWeekdayperHour?:language=en-US&:display_count=n&:origin=viz_share_link)\
+[Link to Trips by Gender (Weekday per Hour)](https://public.tableau.com/views/TripsbyGenderWeekdayperHour-Deliverable2Challenge/TripsbyGenderWeekdayperHour?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)\
+[Link to User Trips by Gender by Weekday](https://public.tableau.com/views/UserTripsbyGenderbyWeekday-Deliverable2Challenge/UserTripsbyGenderbyWeekday?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
 
-[link to story] (https://public.tableau.com/views/NYCCitibikeChallenge_16267935620380/CitiBikeUseinNYCSummers?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to Story](https://public.tableau.com/views/NYCCitibikeChallenge_16267935620380/CitiBikeUseinNYCSummers?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 The following gives the descriptions of the visualizations from the above linked story.
 
