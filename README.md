@@ -16,7 +16,14 @@ The vizzes are then presented in dashboards, which are used to create a story.
 ## Results
 
 Tableau Public link :
-[link to dashboard] https://public.tableau.com/views/NYCCitibikeChallenge_16267935620380/CitiBikeUseinNYCSummers?:language=en-US&:display_count=n&:origin=viz_share_link
+Links to worksheets for Deliverable 2:
+[link to Checkout Times for Users] 
+[link to Checkout Times by Gender]
+[link to Trips by Weekday for Each Hour]
+[link to Trips by Gender (Weekday per Hour]
+[link to User Trips by Gender by Weekday]
+
+[link to story] (https://public.tableau.com/views/NYCCitibikeChallenge_16267935620380/CitiBikeUseinNYCSummers?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 The following gives the descriptions of the visualizations from the above linked story.
 
